@@ -1,0 +1,227 @@
+[
+  {
+    "district": "Agra",
+    "tehsils": [
+      { "name": "Agra" },
+      { "name": "Fatehabad" },
+      { "name": "Kheragarh" },
+      { "name": "Etmadpur" },
+      { "name": "Bah" }
+    ]
+  },
+  {
+    "district": "Aligarh",
+    "tehsils": [
+      { "name": "Aligarh" },
+      { "name": "Atrauli" },
+      { "name": "Iglas" },
+      { "name": "Khair" },
+      { "name": "Gabhana" }
+    ]
+  },
+  {
+    "district": "Barabanki",
+    "tehsils": [
+      {
+        "name": "Nawabganj",
+        "thanas": ["Barabanki", "Satrikh", "Dewa"]
+      },
+      {
+        "name": "Fatehpur",
+        "thanas": ["Fatehpur", "Siddhaur", "Tikait Nagar"]
+      },
+      {
+        "name": "Ramnagar",
+        "thanas": ["Ramnagar", "Zaidpur", "Bani Kodar"]
+      },
+      {
+        "name": "Haidergarh",
+        "thanas": ["Haidergarh", "Trivediganj"]
+      }
+    ]
+  },
+    
+  {
+    "district": "Prayagraj",
+    "tehsils": [
+      { "name": "Sadar" },
+      { "name": "Phulpur" },
+      { "name": "Handia" },
+      { "name": "Meja" },
+      { "name": "Karchana" }
+    ]
+  },
+  {
+    "district": "Kanpur Nagar",
+    "tehsils": [
+      { "name": "Kanpur" },
+      { "name": "Bilhaur" },
+      { "name": "Ghatampur" },
+      { "name": "Sadar" }
+    ]
+  },
+  {
+    "district": "Lucknow",
+    "tehsils": [
+      { "name": "Sadar" },
+      { "name": "Mohanlalganj" },
+      { "name": "Malihabad" },
+      { "name": "Bakshi Ka Talab" }
+    ]
+  },
+  {
+    "district": "Gorakhpur",
+    "tehsils": [
+      { "name": "Gorakhpur" },
+      { "name": "Sadar" },
+      { "name": "Bansgaon" },
+      { "name": "Chauri Chaura" },
+      { "name": "Khajani" }
+    ]
+  },
+  {
+    "district": "Varanasi",
+    "tehsils": [
+      { "name": "Varanasi" },
+      { "name": "Pindra" },
+      { "name": "Raja Talab" }
+    ]
+  },
+  {
+    "district": "Meerut",
+    "tehsils": [
+      { "name": "Meerut" },
+      { "name": "Mawana" },
+      { "name": "Sardhana" }
+    ]
+  },
+  {
+    "district": "Bareilly",
+    "tehsils": [
+      { "name": "Bareilly" },
+      { "name": "Aonla" },
+      { "name": "Nawabganj" },
+      { "name": "Faridpur" },
+      { "name": "Mirganj" }
+    ]
+  },
+  {
+    "district": "Mathura",
+    "tehsils": [
+      { "name": "Mathura" },
+      { "name": "Mant" },
+      { "name": "Chhata" },
+      { "name": "Goverdhan" }
+    ]
+  },
+  {
+    "district": "Ghazipur",
+    "tehsils": [
+      { "name": "Ghazipur" },
+      { "name": "Muhammadabad" },
+      { "name": "Saidpur" },
+      { "name": "Zamania" }
+    ]
+  },
+  {
+    "district": "Moradabad",
+    "tehsils": [
+      { "name": "Moradabad" },
+      { "name": "Thakurdwara" },
+      { "name": "Bilari" }
+    ]
+  },
+  {
+    "district": "Saharanpur",
+    "tehsils": [
+      { "name": "Saharanpur" },
+      { "name": "Behat" },
+      { "name": "Nakur" },
+      { "name": "Deoband" }
+    ]
+  },
+  {
+    "district": "Azamgarh",
+    "tehsils": [
+      { "name": "Azamgarh" },
+      { "name": "Sagri" },
+      { "name": "Nizamabad" },
+      { "name": "Mehnagar" },
+      { "name": "Phoolpur" },
+      { "name": "Burhanpur" }
+    ]
+  },
+  {
+    "district": "Bijnor",
+    "tehsils": [
+      { "name": "Bijnor" },
+      { "name": "Najibabad" },
+      { "name": "Nagina" },
+      { "name": "Chandpur" },
+      { "name": "Dhampur" }
+    ]
+  },
+  {
+    "district": "Jaunpur",
+    "tehsils": [
+      { "name": "Jaunpur" },
+      { "name": "Shahganj" },
+      { "name": "Kerakat" },
+      { "name": "Machhlishahr" }
+    ]
+  },
+  {
+    "district": "Muzaffarnagar",
+    "tehsils": [
+      { "name": "Muzaffarnagar" },
+      { "name": "Budhana" },
+      { "name": "Jansath" },
+      { "name": "Kairana" }
+    ]
+  },
+  {
+    "district": "Shahjahanpur",
+    "tehsils": [
+      { "name": "Shahjahanpur" },
+      { "name": "Jalalabad" },
+      { "name": "Tilhar" },
+      { "name": "Powayan" }
+    ]
+  },
+  {
+    "district": "Mirzapur",
+    "tehsils": [
+      { "name": "Mirzapur" },
+      { "name": "Lalganj" },
+      { "name": "Chunar" }
+    ]
+  },
+  {
+    "district": "Amroha",
+    "tehsils": [
+      { "name": "Amroha" },
+      { "name": "Dhanaura" },
+      { "name": "Hasanpur" }
+    ]
+  },
+  {
+    "district": "Siddharthnagar",
+    "tehsils": [
+      { "name": "Siddharthnagar" },
+      { "name": "Shohratgarh" },
+      { "name": "Itwa" },
+      { "name": "Bansi" },
+      { "name": "Naugarh" }
+    ]
+  },
+  {
+    "district": "Raebareli",
+    "tehsils": [
+      { "name": "Raebareli" },
+      { "name": "Maharajganj" },
+      { "name": "Dalmau" },
+      { "name": "Salon" },
+      { "name": "Lalganj" }
+    ]
+  }
+]
